@@ -7,9 +7,8 @@ Application Hospital Information System V1.0
 
 1. Download or clone this project / repository
 2. Import database in db folder rs_codar.sql
-3. Rename koneksi.php.default to koneksi.php in library folder
 4. Edit koneksi.php with your configuration database
-5. Login username: maful & password: maful
+5. Login username: codarid & password: Asuszenfone16
 
 Please use the contact me below if you want to further customize
 
